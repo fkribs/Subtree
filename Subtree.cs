@@ -2,6 +2,7 @@
 {
     public static class Subtree
     {
-        public const string PROJECT_NAME = "Subtree v3.0.0";
+        public const string PROJECT_NAME = "Subtree v4.0.0";
     }
 }
+
